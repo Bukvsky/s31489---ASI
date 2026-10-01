@@ -1,0 +1,56 @@
+[33mcommit aab58366490a0dfbad598f5933d407e52314ab0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Thu Oct 1 19:27:56 2026 +0200
+
+    pre-commit-config added
+
+[33mcommit 3849a7de417146dc0ae788944771e9f36fd9345d[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Thu Oct 1 13:15:24 2026 +0200
+
+    updated gitignore
+
+[33mcommit 36bb7dfd55ab58a5b152d6eadbc0fe7b4f2fcc2a[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Thu Oct 1 13:09:26 2026 +0200
+
+    fix of json file
+
+[33mcommit f4ef7921a90c123d9fa0330f887d8605a941e29f[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Thu Oct 1 13:08:04 2026 +0200
+
+    Delete notebooks/01_onboarding_eda_teacher.ipynb
+    
+    error
+
+[33mcommit 92cd967f7b6b2b6ddfe6fbae35f33ba7419f99d1[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Thu Oct 1 13:05:39 2026 +0200
+
+    Aktualizacja wersji conda w json
+
+[33mcommit bafd9514d4c0efb14c6c018bdeb26634a46616ed[m
+Merge: 3df45e8 c7722a7
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Wed Sep 30 21:16:37 2026 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 3df45e88416378666a34c07ab119c8a100d1eb4f[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Wed Sep 30 21:14:04 2026 +0200
+
+    chore: initialize onboarding template
+
+[33mcommit c7722a77cee9bde70752b4b74e08f09ce91682ed[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Wed Sep 30 21:13:05 2026 +0200
+
+    Update README header formatting
+
+[33mcommit 812cf1ad9f63b3299040f62319efcda0e1355528[m
+Author: Dominika Cecilia Wnuk <45795813+dominikacecylia@users.noreply.github.com>
+Date:   Wed Sep 30 21:11:40 2026 +0200
+
+    chore: initialize onboarding template
